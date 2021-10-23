@@ -1,0 +1,17 @@
+1.Microsoft.CognitiveServices.Speech.1.18.0.unitypackage
+下载地址：https://aka.ms/csspeech/unitypackage
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

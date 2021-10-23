@@ -1,0 +1,12 @@
+/speech-to-text/Packages
+/speech-to-text/Library
+/speech-to-text/Logs
+/speech-to-text/obj
+/speech-to-text/*.apk
+/text-to-speech/Packages
+/text-to-speech/Library
+/text-to-speech/Logs
+/text-to-speech/obj
+/text-to-speech/*.apk
+/speech-to-text/Assets/SpeechSDK
+/text-to-speech/Assets/SpeechSDK
